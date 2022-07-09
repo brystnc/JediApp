@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jedi App</string>
+    <string name="welcome_app">Welcome</string>
+    <string name="about_app">To the book store galaxy</string>
+    <string name="txt_btn_login">Sign in with Google</string>
+    <string name="txt_alt_icon_app">icon app</string>
+    <string name="txt_login">¿No deseas crear una cuenta?</string>
+    <string name="txt_btn_logout">Logout</string>
+</resources>

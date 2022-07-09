@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "849963306375",
+    "project_id": "jediapp-55585",
+    "storage_bucket": "jediapp-55585.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849963306375:android:112411bd7ea3f791461722",
+        "android_client_info": {
+          "package_name": "acme.appandroid.jediapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849963306375-hhg4c9rjs8gl8u6at9kmvtl78lopu7ti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0OmTrnNr7T0hDP4OyyCqD_NX-ida-qbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849963306375-hhg4c9rjs8gl8u6at9kmvtl78lopu7ti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
