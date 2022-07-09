@@ -97,8 +97,8 @@ class LoginActivity : AppCompatActivity() {
                 val firebaseUser = firebaseAuth.currentUser
 
                 //get user info
-                val uid = firebaseUser.uid
-                val email = firebaseUser.email
+                val uid = firebaseUser!!.uid
+                val email = firebaseUser!!.email
 
                 Log.d(TAG, "firebaseAuthWithGoogleAccount: Uid: $uid")
                 Log.d(TAG, "firebaseAuthWithGoogleAccount: Email: $email")
